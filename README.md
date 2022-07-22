@@ -1,5 +1,5 @@
 # movie-recommender-trends-system
-Movie Recommender System with watch providers using streamlit and MovieDB API calls for trending, upcoming, most rated.
+Movie Recommender System based on similarity using features like overview,title,actor,director,genre using movieDb database. We have also implemented realtime Top Rated, Upcoming, and Trending content using MovieDB API.
 
 #                         Movie Options
 ![00001](https://user-images.githubusercontent.com/63490367/180493580-12b1015a-5bc2-41b2-8396-c87abbf9ef9b.png)
