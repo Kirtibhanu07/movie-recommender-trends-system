@@ -1,0 +1,11 @@
+{
+  "users": 5720,
+  "mean_NDCG20_difference": 0.01544735535556171,
+  "95pct_paired_user_bootstrap_interval": [
+    0.012341929316339359,
+    0.018560497478572573
+  ],
+  "resamples": 10000,
+  "seed": 42,
+  "limit": "One training seed and one retrospective split. Not a production A/B test."
+}
