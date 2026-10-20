@@ -1,0 +1,11 @@
+{
+  "recommended_model": "BPR_MF_hybrid_0.3",
+  "best_learned_family": "BPR_MF",
+  "validation_metric": "NDCG@20",
+  "best_learned_epochs": {
+    "BPR_MF": 25,
+    "LightGCN": 30
+  },
+  "validation_users": 1024,
+  "test_users": 5720
+}

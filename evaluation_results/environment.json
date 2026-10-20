@@ -1,0 +1,14 @@
+{
+  "python": "3.12.14",
+  "platform": "macOS-27.0.1-arm64-arm-64bit",
+  "packages": {
+    "numpy": "2.2.6",
+    "pandas": "2.2.3",
+    "scipy": "1.14.1",
+    "torch": "2.7.1",
+    "scikit-learn": "1.7.2"
+  },
+  "script_sha256": "8900df12e05ed22cef5f9990efabd91bd9298f381c003ac801a2cc4fc9e200e3",
+  "core_sha256": "aacd69f3b164c0c81131b60e11b3e66412ed1aeae08c039f9fc7ee01e49c568b",
+  "plan_sha256": "17b6b5f09b1b509cb0758f6220cc34949d804712391685ace4bd18ba5133230d"
+}

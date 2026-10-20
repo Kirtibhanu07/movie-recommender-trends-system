@@ -1,0 +1,15 @@
+{
+  "ratings": 1000209,
+  "users": 6040,
+  "catalogue_items": 3883,
+  "eligible_users": 5720,
+  "validation_users": 1024,
+  "train_ratings": 727582,
+  "train_positives": 429681,
+  "validation_ratings": 132909,
+  "test_ratings": 139718,
+  "dataset_sha256": {
+    "ratings.dat": "506d64ca44484487c11dc2d9a28de5c54948213e6b96285e298afe28d6ea4e0f",
+    "movies.dat": "0140fc2356357c1a851d0f52e893a1e4d3696df632c4141cea8d5bc3d621f0b9"
+  }
+}

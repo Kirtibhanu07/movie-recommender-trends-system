@@ -1,0 +1,1 @@
+Built a personalized movie recommender using MovieLens 1M with 1,000,209 ratings. Trained BPR matrix factorization and LightGCN with per-user chronological validation. The validation-selected BPR_MF_hybrid_0.3 achieved NDCG@20 0.098 and Recall@20 11.1% across 5,720 eligible test users, with full-catalogue ranking and paired bootstrap uncertainty estimates.
